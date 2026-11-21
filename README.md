@@ -14,4 +14,4 @@ python3 main.py
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=sstfeppj&utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=ey2mhem5&utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441) · AI agents build software for cash rewards
